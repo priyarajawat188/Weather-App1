@@ -17,7 +17,7 @@ const currentDateTxt = document.querySelector('.current-date-txt')
 const forecastItemsContainer = document.querySelector('.forcaste-item-container')
 
 
-const apiKey = 'd6bb3419431e53fe5a6d5277b632af0a'
+const apiKey =  //Please use your own API Key from OpenWeatherMap to run this project.
 
 
 searchBtn.addEventListener('click', () =>{
