@@ -1,5 +1,6 @@
 # Weather App
-
+ https://priyarajawat188.github.io/Weather-App1/
+ [Live Demo]( https://priyarajawat188.github.io/Weather-App1/Weather.html)
 A sleek and responsive Weather Application built using **Vanilla JavaScript** and **OpenWeatherMap API**. This project demonstrates the use of asynchronous programming,
 dynamic DOM manipulation, and real-time data fetching.
 
